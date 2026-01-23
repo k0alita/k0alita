@@ -49,9 +49,6 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
 
 ---
 
----
-
----
 
 <div align="center">
 
@@ -69,9 +66,7 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=k0alita&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views"/>
 </p>
-
-### ⚡ *"La mejor forma de predecir el futuro es inventarlo"*
 
 </div>
