@@ -49,30 +49,7 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
 
 ---
 
-<div align="center">
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-</div>
-
 ---
-
-<div align="center">
-
-## 🌟 Proyectos Destacados
-
-Aquí puedes añadir tus proyectos más importantes con enlaces y descripciones breves.
-
-</div>
 
 ---
 
@@ -81,10 +58,7 @@ Aquí puedes añadir tus proyectos más importantes con enlaces y descripciones 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-hernandez-dos-santos/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/TU_USUARIO_GITHUB">
