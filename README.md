@@ -2,10 +2,6 @@
   
 # 👋 ¡Hola! Soy Alejandro Hernández
 
-### 💻 Desarrollo de Aplicaciones Multiplataformas | 18 años
-
----
-
 ## 🚀 Sobre Mí
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataformas** con pasión por crear soluciones tecnológicas innovadoras.  
