@@ -38,7 +38,7 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="SSH"/>
   <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img stc="https://img.shields.io/badge/Godot-%23FFFFFF?style=for-the-badge&logo=godot-engine" alt="Godot"
+  <img stc="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"
 </p>
 
 ---
