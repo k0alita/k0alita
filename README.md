@@ -50,7 +50,7 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
 ## 📫 Contacto
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-hernandez-dos-santos/)">
+  <a href="https://es.linkedin.com/in/alejandro-hernandez-dos-santos">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/TU_USUARIO_GITHUB">
