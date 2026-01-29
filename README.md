@@ -35,6 +35,7 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
 
 ### Sistemas Operativos y Otros
 <p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="SSH"/>
   <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
