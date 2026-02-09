@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Alejandro Hernández
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataformas** con pasión por crear soluciones tecnológicas innovadoras.  
 Me especializo en desarrollo backend, bases de datos y administración de sistemas.
