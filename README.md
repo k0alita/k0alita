@@ -43,6 +43,15 @@ Me especializo en desarrollo backend, bases de datos y administración de sistem
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+### Inteligencia Artificial y Asistentes de Desarrollo
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Antigravity-4A154B?style=for-the-badge&logo=sparkles&logoColor=white" alt="Antigravity"/>
+</p>
+
 ### Herramientas de Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
